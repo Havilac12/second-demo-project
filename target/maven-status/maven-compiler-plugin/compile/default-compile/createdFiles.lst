@@ -1,0 +1,7 @@
+com/solera/resource/JobResource.class
+com/solera/dao/JobDao.class
+com/solera/dao/Dao.class
+com/solera/JAXRSConfiguration.class
+com/solera/business/JobBusiness.class
+com/solera/entity/Job.class
+com/solera/entity/Entity.class

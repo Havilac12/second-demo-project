@@ -1,0 +1,7 @@
+/root/second-demo/src/main/java/com/solera/JAXRSConfiguration.java
+/root/second-demo/src/main/java/com/solera/entity/Job.java
+/root/second-demo/src/main/java/com/solera/resource/JobResource.java
+/root/second-demo/src/main/java/com/solera/dao/Dao.java
+/root/second-demo/src/main/java/com/solera/business/JobBusiness.java
+/root/second-demo/src/main/java/com/solera/dao/JobDao.java
+/root/second-demo/src/main/java/com/solera/entity/Entity.java
